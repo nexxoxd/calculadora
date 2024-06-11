@@ -5,7 +5,7 @@ cu = int(input("numero"))
 if open == 1 :
     suma = cal + cu
     print(suma) 
-
-suma = cal + cu 
-resta = cal - cu
+elif open == 2:
+    resta = cal - cu
+print(resta)
 
