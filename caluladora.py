@@ -1,7 +1,7 @@
 U = int(input("numero"))
 Y = int(input("numero"))
 
-UY = U / Y
+UY = U * Y
 
 print(UY)
 
